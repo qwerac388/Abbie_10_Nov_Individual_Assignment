@@ -1,0 +1,23 @@
+.red {
+  background-color: red;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.aliceblue {
+  background-color: aliceblue;
+}
+
+.black {
+  background-color: black;
+}
+
+.row {
+  border: green 2px solid;
+}
